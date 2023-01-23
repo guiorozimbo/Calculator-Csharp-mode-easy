@@ -1,0 +1,11 @@
+C:\Users\Guilherme Ramos\Desktop\Calculadora_Csharp\Calculadora_Csharp\bin\Debug\Calculadora_Csharp.exe.config
+C:\Users\Guilherme Ramos\Desktop\Calculadora_Csharp\Calculadora_Csharp\bin\Debug\Calculadora_Csharp.exe
+C:\Users\Guilherme Ramos\Desktop\Calculadora_Csharp\Calculadora_Csharp\bin\Debug\Calculadora_Csharp.pdb
+C:\Users\Guilherme Ramos\Desktop\Calculadora_Csharp\Calculadora_Csharp\obj\Debug\Calculadora_Csharp.csproj.AssemblyReference.cache
+C:\Users\Guilherme Ramos\Desktop\Calculadora_Csharp\Calculadora_Csharp\obj\Debug\Calculadora_Csharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guilherme Ramos\Desktop\Calculadora_Csharp\Calculadora_Csharp\obj\Debug\Calculadora_Csharp.Properties.Resources.resources
+C:\Users\Guilherme Ramos\Desktop\Calculadora_Csharp\Calculadora_Csharp\obj\Debug\Calculadora_Csharp.csproj.GenerateResource.cache
+C:\Users\Guilherme Ramos\Desktop\Calculadora_Csharp\Calculadora_Csharp\obj\Debug\Calculadora_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Ramos\Desktop\Calculadora_Csharp\Calculadora_Csharp\obj\Debug\Calculadora_Csharp.exe
+C:\Users\Guilherme Ramos\Desktop\Calculadora_Csharp\Calculadora_Csharp\obj\Debug\Calculadora_Csharp.pdb
+C:\Users\Guilherme Ramos\Desktop\Calculadora_Csharp\Calculadora_Csharp\obj\Debug\Calculadora_Csharp.Calc.resources
